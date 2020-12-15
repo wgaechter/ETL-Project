@@ -1,5 +1,5 @@
 # ETL-Project
-<<<<<<< HEAD
+
 # This project is comparing two different stock types
 
 # All Stocks for the last 5 years
